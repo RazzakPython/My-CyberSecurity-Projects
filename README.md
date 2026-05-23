@@ -19,3 +19,7 @@ These projects are created solely for educational purposes in controlled lab env
 [6.Malware Analysis || SOC: SIEM & Evading IDS, Firewalls](https://docs.google.com/document/d/154_0HJUlUL48BkpIH9tU0DGe9soTP0pwcQ_AHbOZsLU/edit?tab=t.0) 
 
 [7.Social Engineering Attack and API Attack & Testing](https://docs.google.com/document/d/1wnRL-QaQrk780R4ZY5wE_143tDCbgUrysaTRcJKSKfc/edit?tab=t.0) 
+
+[8.Class Exam-1](https://docs.google.com/document/d/153X7h55ZfbDE9i4346QhFhs3x7f7VRpgBTUE65wveR8/edit?tab=t.0)
+
+[9.Class Exam-2](https://docs.google.com/document/d/1Gg46lrQNtxLBnJqXCOSKur2ivnjTZGOginluDL2cK0M/edit?tab=t.0)
