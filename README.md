@@ -1,3 +1,11 @@
+### About Me
+Hi, I am Md Abdur Razzak. I am passionate about cybersecurity and dedicated to continuous learning in the field of information security. This repository documents my hands-on practice, lab-based penetration testing, and various security projects as part of my journey toward becoming a security professional.
+
+### Disclaimer
+These projects are created solely for educational purposes in controlled lab environments. I am committed to ethical hacking practices. Please do not use these methods on any system without explicit authorization. The goal is to learn and improve defense strategies.
+
+---
+
 [1.SQL Injection Attack & Database Overview](https://docs.google.com/document/d/1kc5g4VI552rOPBzt0HzI15uhG9liAid15E6ivc-PkjQ/edit?tab=t.0)
 
 [2.Web Pentesting: Directory Traversal & Bruteforce](https://docs.google.com/document/d/1ZV_m_PT6CRRBBxw-lAm6GBAD1rm_MnNnd6b58QaNO0Y/edit?tab=t.0)
